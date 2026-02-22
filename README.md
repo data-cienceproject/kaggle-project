@@ -31,21 +31,6 @@ End-to-end machine learning pipeline for credit card fraud detection using the U
 ## Dataset
 [Credit Card Fraud Detection — Kaggle (ULB)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 ```
-4. Click **Commit new file**
 
----
-
-## Make the repo Public
-
-The marker needs to access it — double check:
-1. Go to your repo → **Settings**
-2. Scroll down to **Danger Zone**
-3. Click **Change visibility → Make public**
-
----
-
-## Final submission link format
-
-Just submit the URL from your browser, like:
 ```
 https://github.com/YourUsername/NGDS-Assignment1
